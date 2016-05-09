@@ -1,8 +1,10 @@
 = Pivotal Cloud Foundry AppDev Workshop
 
-== Schedule
+== Welcome
 
 This one day hands-on classroom style session will provide developers (and operators) with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
+
+== Agenda
 
 Timing: 9:30 - 4pm
 
